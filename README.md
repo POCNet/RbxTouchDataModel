@@ -16,7 +16,7 @@ What RbxTouchDataModel uses:
 
 * ROBLOX VM platform
 * ROBLOX RCC and SOAP protocols
-* Files edited by John Shedletsky (https://github.com/ui0ppk/roblox-master)
+* Files edited by ui0ppk (https://github.com/ui0ppk/roblox-master)
 * POCNet Virtual Machine Hosting Platform
 * Network cluster platform
 * RCC Render & Arbiter
